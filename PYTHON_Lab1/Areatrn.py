@@ -3,4 +3,4 @@
 base1 = float(input("enter the base: \n"))
 height2 = float(input("enter the height: \n"))
 areaTri = 1/2 * ( base1 * height2)
-print(areaTri)
+print(areaTri)main
